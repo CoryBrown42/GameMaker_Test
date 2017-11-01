@@ -148,7 +148,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite1\/sprite1.yy",
+                "resourcePath": "sprites\/SnowBall\/SnowBall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -340,6 +340,25 @@
                 ],
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c482d4aa-502b-4f0c-89b9-e694def31e99",
+            "Value": {
+                "id": "467bf3c3-c485-4832-9796-02ff8c020cc7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_bullet\/obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {

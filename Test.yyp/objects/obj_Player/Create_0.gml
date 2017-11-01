@@ -1,0 +1,3 @@
+//OnStart
+
+cooldown = 0;
